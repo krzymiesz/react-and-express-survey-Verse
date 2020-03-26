@@ -1,0 +1,49 @@
+body{
+  /* font-family: Roboto; */
+  /* font-style: normal; */
+  color: #373737;
+  background-color: #f8f8f8;
+}
+#start_image{
+  margin: 86px auto 56px auto;
+}
+#title_container{
+  width: 90%;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  margin: 0 auto;
+}
+#text_container{
+  margin: 18px auto 37px auto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21px;
+}
+#container_survey_start{
+  max-width: 310px;
+}
+#container_survey_start, #container_survey{
+  margin: 0 auto;
+  text-align: center;
+}
+.survey_button{
+  height: 50px;
+  background-color: #48B07A;
+  font-size: 14px;
+  color: #FFFFFF;
+  border: none;
+  margin-bottom: 100px;
+}
+.survey_button:hover{
+  background: #77cca0;
+}
+#button_1{
+  width: 95%;
+}
+.button_disabled{
+  background-color: #b7b7b7 !important;
+}
+.clear{
+  clear: both;
+}
