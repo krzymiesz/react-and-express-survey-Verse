@@ -4,11 +4,11 @@ A React application, which uses a Node.js Express backend to provide data for th
 Application retreives data from database (MongoDB)
 
 
-### Starting Database:
-# After installing MongoDB:
+# Starting Database:
+## After installing MongoDB:
 - imaport dump file to Database (survey_db.survey_data.json)
 
-# Start Database:
+## Start Database:
 if on Windows OS, in \mongodb\bin folder:
  - execute mongod.exe file
  - execute mongo.exe file
@@ -18,8 +18,8 @@ if on Unix OS in command line run:
  - ./mongo
 
 
-### Starting Application:
-# After installation of appropriate modules for both: backend and frontend run respectively:
+# Starting Application:
+## After installation of appropriate modules for both: backend and frontend run respectively:
 - in backend folder:
   node app.js
 - in frontend folder:
