@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e7a7485b048ac1340283c32"},"question":"How often do you eat meat and dairy?","options":["Daily","1 or 2 times","3+ times per week","Not at all"]}
+{"_id":{"$oid":"5e7a7485b048ac1340283c33"},"question":"How big are your portions sizes?","options":["Smaller than average","Average","Larger than average","I'm not sure"]}
+{"_id":{"$oid":"5e7a7485b048ac1340283c34"},"question":"How much food ends up wasted in your household?","options":["None","1-5 plates per week","6-10 plates per week","More than 10 plates per week"]}
+{"_id":{"$oid":"5e7a7485b048ac1340283c35"},"question":"How often do you eat avocados, asparagus, kiwi fruit or pineapples?","options":["Daily","1 or 2 times","3+ times per week","Not at all"]}
+{"_id":{"$oid":"5e7a7485b048ac1340283c36"},"question":"How often do you eat seasonal veg from Europe?","options":["Daily","3+ times per week","1 or 2 times","Not at all"]}
