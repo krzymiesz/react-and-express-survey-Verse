@@ -3,7 +3,7 @@ App Onboarding Survey
 
 A React application, which uses a Node.js Express backend to provide data for the Survey questions.
 Application retrieves data from database (MongoDB).
-1st stage of development - just a simple question/answer example - doesn't calculates results yet.
+1st stage of development - just a simple question/answer example - doesn't calculate results yet.
 
 
 # Starting Database:
